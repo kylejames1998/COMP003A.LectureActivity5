@@ -149,5 +149,7 @@ namespace COMP003A.LectureActivity5
             counter--;
             if (counter >= 0) Inception(message, counter--);
         }
+
+        // comment for testing
     }
 }
